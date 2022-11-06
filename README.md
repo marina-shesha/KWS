@@ -1,4 +1,7 @@
 # KWS
+Clone repository
+'git clone https://github.com/marina-shesha/KWS.git'
+
 In this homework I implement KWS model and striaming variant. Moreover, I implement different ways to compress model: distillation, fp16, quantithation. All experiments can be found in `seminar_my.ipynb`.
 If you want test model, you shuld use `is_train = False` in notebook and downloads base model files: 
 
@@ -15,3 +18,5 @@ but this model is automatically saved when run the notebook if you download item
 
 7. `stream_small_model.pth` -- scipted my final compressed model, but this model 
 but this model is automatically saved when run the notebook if you download items 1-5.
+
+For training use 'is_train = True' in `seminar_my.ipynb`.
