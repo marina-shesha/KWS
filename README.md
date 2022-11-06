@@ -19,4 +19,4 @@ but this model is automatically saved when run the notebook if you download item
 7. `stream_small_model.pth` -- scipted my final compressed model, but this model 
 but this model is automatically saved when run the notebook if you download items 1-5.
 
-For training use 'is_train = True' in `seminar_my.ipynb`.
+For training use `is_train = True` in `seminar_my.ipynb`.
