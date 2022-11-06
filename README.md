@@ -9,7 +9,9 @@ If you want test model, you shuld use 'is_train = False' in notebook and downloa
 5. 'distilation_model_new_fp16_model.pth'
 
 Also I added:
+
 6. 'stream_full_model.pth' -- scripted full model for streaing, but this model 
 but this model is automatically saved when run the notebook if you download items 1-5.
+
 7. 'stream_small_model.pth' -- scipted my final compressed model, but this model 
 but this model is automatically saved when run the notebook if you download items 1-5.
