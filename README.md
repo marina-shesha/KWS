@@ -1,6 +1,6 @@
 # KWS
 Clone repository
-'git clone https://github.com/marina-shesha/KWS.git'
+`git clone https://github.com/marina-shesha/KWS.git`
 
 In this homework I implement KWS model and striaming variant. Moreover, I implement different ways to compress model: distillation, fp16, quantithation. All experiments can be found in `seminar_my.ipynb`.
 If you want test model, you shuld use `is_train = False` in notebook and downloads base model files: 
